@@ -1,0 +1,44 @@
+{
+  "development": {
+    "logging": false,
+    "dialect": "mysql",
+    "dialectOptions": {
+      "connectTimeout": 60000
+    },
+    "host": "localhost",
+    "port": 3306,
+    "username": "sandbox",
+    "password": "sandbox",
+    "database": "realtime",
+    "pool": {
+      "max": 5,
+      "idle": 30000,
+      "acquire": 60000
+    },
+    "define": {
+      "underscored": true,
+      "timestamps": false
+    }
+  },
+  "production": {
+    "logging": false,
+    "dialect": "mysql",
+    "dialectOptions": {
+      "connectTimeout": 60000
+    },
+    "host": "grp6m5lz95d9exiz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "username": "m6bf6g7003b2103u",
+    "password": "rbwdhme7oik2jden",
+    "database": "mannx0nlvfxdlj03",
+    "pool": {
+      "max": 5,
+      "idle": 30000,
+      "acquire": 60000
+    },
+    "define": {
+      "underscored": true,
+      "timestamps": false
+    }
+  }
+}
