@@ -5,11 +5,11 @@
     "dialectOptions": {
       "connectTimeout": 60000
     },
-    "host": "localhost",
+    "host": "l6glqt8gsx37y4hs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
-    "username": "sandbox",
-    "password": "sandbox",
-    "database": "realtime",
+    "username": "wia5i7mpa47p2pv4",
+    "password": "dr9izonj33gt63ph",
+    "database": "hnaxizljw4uzsq6g",
     "pool": {
       "max": 5,
       "idle": 30000,
@@ -26,11 +26,11 @@
     "dialectOptions": {
       "connectTimeout": 60000
     },
-    "host": "grp6m5lz95d9exiz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "l6glqt8gsx37y4hs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
-    "username": "m6bf6g7003b2103u",
-    "password": "rbwdhme7oik2jden",
-    "database": "mannx0nlvfxdlj03",
+    "username": "wia5i7mpa47p2pv4",
+    "password": "dr9izonj33gt63ph",
+    "database": "hnaxizljw4uzsq6g",
     "pool": {
       "max": 5,
       "idle": 30000,
